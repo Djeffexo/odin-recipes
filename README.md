@@ -1,2 +1,2 @@
 # odin-recipes
-My first TOP HTML project
+This project is a basic HTML webpage based on displaying a recipe.
